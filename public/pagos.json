@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "cadete_id": "2",
+            "fecha_pago": "2023-05-20T00:00:00Z",
+            "monto": 50000,
+            "estado": "COMPLETADO",
+            "metodo_pago": "TARJETA",
+            "creado_en": "2023-05-01T00:00:00Z",
+            "actualizado_en": "2023-05-20T00:00:00Z"
+        },
+        {
+            "id": "2",
+            "cadete_id": "2",
+            "fecha_pago": "",
+            "monto": 50000,
+            "estado": "FALLIDO",
+            "metodo_pago": "",
+            "creado_en": "2023-06-01T00:00:00Z",
+            "actualizado_en": ""
+        },
+        {
+            "id": "3",
+            "cadete_id": "2",
+            "fecha_pago": "",
+            "monto": 50000,
+            "estado": "PENDIENTE",
+            "metodo_pago": "",
+            "creado_en": "2023-07-01T00:00:00Z",
+            "actualizado_en": ""
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": "2",
+            "nombre": "Ana",
+            "apellido": "González",
+            "rut": "22334455-6",
+            "url_foto": "/avatar.png",
+            "fecha_nacimiento": "2006-08-22",
+            "fecha_admision": "2022-02-15",
+            "fecha_salida": null,
+            "email": "ana.gonzalez@example.com",
+            "telefono": "912345678",
+            "region": "Valparaíso",
+            "ciudad": "Viña del Mar",
+            "direccion": "Avenida Siempre Viva 742",
+            "apoderados": [
+                {
+                    "id": "103",
+                    "nombre": "Luis",
+                    "apellido": "González",
+                    "rut": "12344321-9",
+                    "email": "luis.gonzalez@example.com",
+                    "telefono": "321654987",
+                    "direccion": "Avenida Siempre Viva 742",
+                    "relacion": "Padre",
+                    "id_cadete": "2",
+                    "region": "Valparaíso",
+                    "ciudad": "Viña del Mar"
+                },
+                {
+                    "id": "104",
+                    "nombre": "Elena",
+                    "apellido": "Ramírez",
+                    "rut": "99887766-5",
+                    "email": "elena.ramirez@example.com",
+                    "telefono": "654321987",
+                    "direccion": "Calle Esperanza 123",
+                    "relacion": "Madre",
+                    "id_cadete": "2",
+                    "region": "Valparaíso",
+                    "ciudad": "Viña del Mar"
+                }
+            ],
+            "fichas_tecnicas": [
+                {
+                    "id": "202",
+                    "categoria": "Infantiles",
+                    "posicion": "Defensa",
+                    "goles": 2,
+                    "asistencias": 3,
+                    "id_cadete": "2"
+                }
+            ],
+            "club": "Quilpue FC",
+            "estado": "Activo"
+        },
+        {
+            "id": "1",
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "rut": "12345678-9",
+            "url_foto": "",
+            "fecha_nacimiento": "2005-06-15",
+            "fecha_admision": "2021-03-01",
+            "fecha_salida": null,
+            "email": "juan.perez@example.com",
+            "telefono": "987654321",
+            "region": "Metropolitana de Santiago",
+            "ciudad": "Santiago",
+            "direccion": "Calle Falsa 123",
+            "apoderados": [
+                {
+                    "id": "101",
+                    "nombre": "María",
+                    "apellido": "López",
+                    "rut": "98765432-1",
+                    "email": "maria.lopez@example.com",
+                    "telefono": "123456789",
+                    "direccion": "Calle Verdadera 456",
+                    "relacion": "Madre",
+                    "id_cadete": "1",
+                    "region": "Metropolitana de Santiago",
+                    "ciudad": "Santiago"
+                },
+                {
+                    "id": "102",
+                    "nombre": "Carlos",
+                    "apellido": "Pérez",
+                    "rut": "87654321-0",
+                    "email": "carlos.perez@example.com",
+                    "telefono": "987654321",
+                    "direccion": "Calle Falsa 123",
+                    "relacion": "Padre",
+                    "id_cadete": "1",
+                    "region": "Metropolitana de Santiago",
+                    "ciudad": "Santiago"
+                }
+            ],
+            "fichas_tecnicas": [
+                {
+                    "id": "201",
+                    "categoria": "Juveniles",
+                    "posicion": "Delantero",
+                    "goles": 10,
+                    "asistencias": 5,
+                    "id_cadete": "1"
+                }
+            ],
+            "club": "Juveniles FC",
+            "estado": "Activo"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "categorias": [
+            {
+                "id": "1",
+                "nombre": "Juvenil",
+                "id_club": "1",
+                "creado_en": "2024-01-20T08:00:00Z",
+                "actualizado_en": "2024-07-22T10:00:00Z"
+            },
+            {
+                "id": "2",
+                "nombre": "Senior",
+                "id_club": "1",
+                "creado_en": "2024-02-25T09:30:00Z",
+                "actualizado_en": "2024-07-22T10:30:00Z"
+            },
+            {
+                "id": "3",
+                "nombre": "Femenino",
+                "id_club": "2",
+                "creado_en": "2024-03-15T10:45:00Z",
+                "actualizado_en": "2024-07-22T11:00:00Z"
+            },
+            {
+                "id": "4",
+                "nombre": "Masculino",
+                "id_club": "2",
+                "creado_en": "2024-04-05T11:00:00Z",
+                "actualizado_en": "2024-07-22T11:30:00Z"
+            },
+            {
+                "id": "5",
+                "nombre": "Infantil",
+                "id_club": "3",
+                "creado_en": "2024-05-12T12:15:00Z",
+                "actualizado_en": "2024-07-22T12:00:00Z"
+            }
+        ],
+        "posiciones": [
+            {
+                "id": "1",
+                "nombre": "Delantero"
+            },
+            {
+                "id": "2",
+                "nombre": "Centrocampista"
+            },
+            {
+                "id": "3",
+                "nombre": "Defensor"
+            },
+            {
+                "id": "4",
+                "nombre": "Portero"
+            }
+        ]
+    }
+}

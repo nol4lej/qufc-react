@@ -1,0 +1,13 @@
+{
+    "user": {
+        "id": "b1a7a8c0-52ec-4c7f-9a88-6e2358a7d55f",
+        "first_name": "Juan",
+        "last_name": "Pérez",
+        "rut": "12345678-9",
+        "role": "ADMINISTRADOR",
+        "perfil": "a73b8d5c-8f8f-4b2c-8efc-908fd9e8c6e4"
+    },
+    "token": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    }
+}
